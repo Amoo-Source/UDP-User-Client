@@ -1,5 +1,4 @@
-#Aaron Moo
-#Assignment 2
+
 
 import time
 import sys
